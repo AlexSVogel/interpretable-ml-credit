@@ -48,3 +48,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# renv
+renv/library/
+renv/staging/
+renv/sandbox/
+
+# Eigene Outputs
+output/
+*.html
+*.Rproj.user
